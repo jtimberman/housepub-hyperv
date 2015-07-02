@@ -1,0 +1,7 @@
+name 'housepub-hyperv'
+maintainer 'Joshua Timberman'
+maintainer_email 'opensource@housepub.org'
+license 'apache2'
+description 'Configures Hyper-V'
+version '0.1.0'
+depends 'windows'
